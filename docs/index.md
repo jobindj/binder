@@ -1,3 +1,3 @@
-# Binder
+# binder
 
 A digital garden

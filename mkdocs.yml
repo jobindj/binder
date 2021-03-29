@@ -9,6 +9,8 @@ theme:
         scheme: default
         primary: white
         accent: teal
+    features:
+      - navigation.tabs
 
 # Extensions
 markdown_extensions:
