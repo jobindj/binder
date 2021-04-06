@@ -1,6 +1,6 @@
 # Explainable AI
 
-Explain the outputs of a [[Machine Learning]] model
+Explain the outputs of a [[Machine-Learning]] model
 
 ## Resources
 

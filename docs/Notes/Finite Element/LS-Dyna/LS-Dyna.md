@@ -1,6 +1,6 @@
 # LS-Dyna
 
-LS-Dyna is a multiphysics finite element solver, used widely for explicit [[Finite Element|FEA]]
+LS-Dyna is a multiphysics finite element solver, used widely for explicit [[Finite-Element|FEA]]
 
 !!! tip "Learning resources: Getting Started" 
         

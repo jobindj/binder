@@ -2,7 +2,7 @@
 
 ## Tools
 
-### Tools I use for [[Knowledge Management]]
+### Tools I use for [[Knowledge-Management]]
 
 - [[Obsidan]]
 
