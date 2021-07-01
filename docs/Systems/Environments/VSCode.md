@@ -1,12 +1,24 @@
 # VSCode
 
-## Tips and Tricks
+
+## Tips,Tricks, and Shortcuts
+
 
 ### Compare files
 
 Select the files to compare on the Explorer pane (on the left), right click and chose `Compare Selected` ([stackoverflow](https://stackoverflow.com/questions/30139597/visual-studio-code-is-there-a-compare-feature-like-that-plugin-for-notepad))
 
-## File Explorer
+### Cursor
+
+- Vertical select : `Alt + Shift`
+- Multiple cursors
+	- `Alt + click`
+	- Vertically add more cursors `Ctrl + Alt + Up/Down`
+	- Add cursor at the next occurrence of the word : `Ctrl+D`
+	- Add cursor at every occurrence of the word : `Ctrl+Shift+L`
+
+
+### File Explorer
 
 - Open in Explorer : `Alt + Shft + R`
 

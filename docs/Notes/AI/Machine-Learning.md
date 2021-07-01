@@ -16,6 +16,10 @@ Learn from data!
 ### Courses
 
 - [ME 597 - Data Analytics for Scientists and Engineering at Purdue University](https://github.com/PredictiveScienceLab/data-analytics-se)
+- [CS 329S | Machine Learning Systems Design at Stanford](https://stanford-cs329s.github.io/index.html#overview)  
+  
+
+> The course covers all the steps from project scoping, data management, model development, deployment, infrastructure, team structure, to business analysis. At each step, it goes over the motivations, challenges, and limitations, if any, of different solutions. The course ends with a discussion on the future of the machine learning production ecosystem.
 
 ### Quick overviews
 
