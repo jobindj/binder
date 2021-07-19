@@ -30,3 +30,11 @@ Select the files to compare on the Explorer pane (on the left), right click and 
 
 - in whole workspace:  `Ctrl + Shft + F`
 - in a sub-folder within whole workspace:  `Alt + Shft + F`
+
+## Snippets
+
+- To include, a snippet within a snippet (nested snippet)
+	- Add the prefix of nested snippet as label
+	- Use `Ctrl + Space` at the tab stop
+		- Caveat: This breaks the snippet flow. If using this, have the nested snippet as the last tab stop
+	- Hat tip : [Stackoverflow](https://stackoverflow.com/questions/58566363/vscode-nested-snippets-or-include-a-snippet-inside-another-snippet)
