@@ -1,6 +1,7 @@
 # Productivity
 
 Some tips
+
 - Daily highlight: Write down 1 thing that needs to get down that day, focus on it. (Book: Make time)
 - Use a to-do list
 - Time blocking: blocks on calendar (Cal Newport)
