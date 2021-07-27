@@ -23,9 +23,18 @@ For PyTorch
 ## Learning Resources
 
 - Stanford Unsupervised Feature Learning and Deep Learning Tutorial: [webpage](http://ufldl.stanford.edu/tutorial/), [github](https://github.com/amaas/stanford_dl_ex)  
-  - [rasbt/deeplearning-models: A collection of various deep learning architectures, models, and tips](https://github.com/rasbt/deeplearning-models)  
+- [rasbt/deeplearning-models: A collection of various deep learning architectures, models, and tips](https://github.com/rasbt/deeplearning-models)  
+- [Deep Learning Wizard - Deep Learning Wizard](https://www.deeplearningwizard.com/)  
+
   
   ### Books
 
 - [Deep Learning with PyTorch](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf)
 
+### Online Course/Lectures/Videos
+
+- [Introduction to Deep Learning](https://sebastianraschka.com/blog/2021/dl-course.html)  
+  
+
+>  170 Video Lectures from Adaptive Linear Neurons to Zero-shot Classification with Transformers.
+>  All code examples are in PyTorch
