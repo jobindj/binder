@@ -1,4 +1,8 @@
-# LS-Dyna
+---
+aliases: LS-DYNA
+---
+
+# LS-DYNA
 
 LS-Dyna is a multiphysics finite element solver, used widely for explicit [[Finite-Element|FEA]]
 
@@ -8,3 +12,6 @@ LS-Dyna is a multiphysics finite element solver, used widely for explicit [[Fini
     - Dyna Examples [Introductory Courses](https://www.dynaexamples.com/introduction)
 
 
+## Quick Guides
+
+- Defining [[Cross-Sections]]
