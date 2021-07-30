@@ -7,7 +7,7 @@ aliases: Git Worktree
 open multiple [[Git]] branches/commits in  different folders
 
 I find this very helpful when I need to open multiple versions/branches at the same time. 
-This is especially useful to open different [[_LS-DYNA|LS-DYNA]] version-controlled branches as each one would have a different set off output files.
+This is especially useful to open different [[LS-DYNA_|LS-DYNA]] version-controlled branches as each one would have a different set off output files.
 
 ## Example
 

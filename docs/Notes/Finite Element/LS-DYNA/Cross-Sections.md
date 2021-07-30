@@ -1,6 +1,6 @@
 # Cross Sections
 
-Cross sections can be defined in [[binder/docs/Notes/Finite Element/LS-DYNA/_LS-DYNA]] in two ways:
+Cross sections can be defined in [[LS-DYNA_]] in two ways:
 
 - using node set and element sets
 - using Plane
