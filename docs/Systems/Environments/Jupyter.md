@@ -1,8 +1,6 @@
-[[Computational-Notebooks]]
-
 # Jupyter
 
-Interactive environment for [[Python]]
+Interactive environment for [[Python]] and other languages
 
 ## Useful add-ons 
 
