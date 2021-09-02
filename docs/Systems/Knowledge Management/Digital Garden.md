@@ -1,10 +1,20 @@
 # Digital Garden
 
-## Tools
+> a growing collection of notes and personal [stubs](https://en.wikipedia.org/wiki/Wikipedia:Stub), useful as a tool for thinking
 
-### Tools I use for [[Knowledge-Management]]
 
-- [[Obsidan]]
+## Tools for gardening
+
+### Tools I use for [[Knowledge Management]]
+
+#### [[Notes]]
+
+- [[Obsidian]]
+- Notion
+
+#### Reference Management
+
+- [[Zotero]]
 
 
 

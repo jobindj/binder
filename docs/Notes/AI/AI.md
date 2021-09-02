@@ -1,5 +1,6 @@
 # AI
 
-## Learning Resources
+## Discourse around the web
 
-- [kmario23/deep-learning-drizzle:  Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP course from around the world](https://github.com/kmario23/deep-learning-drizzle)
+- [New AI Lexicon](https://medium.com/a-new-ai-lexicon)
+

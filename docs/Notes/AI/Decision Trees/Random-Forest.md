@@ -1,4 +1,6 @@
-# Random Forest of [[Decision-Trees]]
+# Random Forest 
+
+of [[Decision Trees]]
 
 ## Boosting
 

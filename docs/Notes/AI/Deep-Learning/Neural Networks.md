@@ -1,4 +1,4 @@
-# Neural Network
+# Neural Networks
 
 Artificial Neural Networks inspired by biological networks formed by neurons
 

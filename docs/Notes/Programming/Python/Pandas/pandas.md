@@ -16,3 +16,7 @@
 ### Read from csv
 
 `pd.read_csv('filename/path')`
+
+## Add-ons
+
+- [chris1610/sidetable: sidetable builds simple but useful summary tables of your data](https://github.com/chris1610/sidetable)  

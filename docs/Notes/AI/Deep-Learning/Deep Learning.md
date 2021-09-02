@@ -1,6 +1,14 @@
 # Deep Learning
 
-aka Deep [[Neural-Network|Neural Networks]]
+aka Deep [[Neural Networks]]
+
+## Lingo
+
+### Basics
+
+### Deeper
+
+[[Continuous Learning]]: continuously training with new data
 
 ## Libraries
 
@@ -28,8 +36,13 @@ For PyTorch
 
   
   ### Books
+  
 
+#### Learn by coding
+
+- [Applications of Deep Neural Networks with Keras](https://arxiv.org/pdf/2009.05673.pdf), Jeff Heaton
 - [Deep Learning with PyTorch](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf)
+
 
 ### Online Course/Lectures/Videos
 
@@ -38,3 +51,5 @@ For PyTorch
 
 >  170 Video Lectures from Adaptive Linear Neurons to Zero-shot Classification with Transformers.
 >  All code examples are in PyTorch
+
+

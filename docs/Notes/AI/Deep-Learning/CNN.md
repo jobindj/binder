@@ -1,6 +1,6 @@
 # Convolutional Neural Network
 
-A class of [[Multilayer perceptron]] [[Neural-Network]] inspired by structure in animal visual cortex
+A class of [[Multilayer perceptron]] [[Neural Networks]] inspired by structure in animal visual cortex
 
 
 ## Learning resources

@@ -1,6 +1,12 @@
 # Jupyter
 
-Interactive environment for [[Python]] and other languages
+> Interactive notebook for [[Python]] and other programming languages
+
+## Popular Environments for Jupyter
+
+- JupyterLab
+- [[VSCode]]
+
 
 ## Useful add-ons 
 

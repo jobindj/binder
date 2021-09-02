@@ -1,3 +1,3 @@
 # Multilayer perceptron
 
-Feed-forward [[Neural-Network]]
+Feed-forward [[Neural Networks]]
